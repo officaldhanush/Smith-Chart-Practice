@@ -15,3 +15,17 @@ Documenting my hands-on RF impedance matching simulations as a first-year ECE st
 * **Result:** The point curved upward along the Smith Chart.
 
 ![Series Inductor Simulation](Screenshot_20261010-105042_Smith%20Chart.png)
+
+## Day 2: Parallel (Shunt) Components
+
+### 3. Parallel Capacitor
+* **Action:** Added a parallel capacitor with $+0.05\ \text{S}$ susceptance at $1\ \text{GHz}$.
+* **Result:** The point curved downward along the conductance circles.
+
+![Parallel Capacitor Simulation](Screenshot_20261011-070202_Smith%20Chart.png)
+
+### 4. Parallel Inductor
+* **Action:** Added a parallel inductor with $-0.05\ \text{S}$ susceptance at $1\ \text{GHz}$.
+* **Result:** The point curved upward along the conductance circles.
+
+![Parallel Inductor Simulation](Screenshot_20261011-070437_Smith%20Chart.png)
